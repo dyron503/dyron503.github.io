@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyron503.github.io/</id>
     <title>dyron503的博客</title>
-    <updated>2021-02-10T05:29:03.876Z</updated>
+    <updated>2021-02-10T07:34:25.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dyron503.github.io/"/>
     <link rel="self" href="https://dyron503.github.io/atom.xml"/>
@@ -10,4 +10,67 @@
     <logo>https://dyron503.github.io/images/avatar.png</logo>
     <icon>https://dyron503.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, dyron503的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年2月9日]]></title>
+        <id>https://dyron503.github.io/post/2021-nian-2-yue-9-ri/</id>
+        <link href="https://dyron503.github.io/post/2021-nian-2-yue-9-ri/">
+        </link>
+        <updated>2021-02-10T07:32:53.000Z</updated>
+        <content type="html"><![CDATA[<p>早上起来我像往常一样打开RSS应用，就发现「Lexburner在哔哩哔哩的账号被关闭」刷了屏；但网上的一地鸡毛并未消散。我之前并不知道这位引爆互联网（笑）的主播究竟是什么来头，只是模模糊糊的保有一些记忆-他和老番茄等人连麦上播创下直播间罕有排场的时候，不少自媒体纷纷报道。</p>
+<p>本以为他像过去一年内许多人一样，是卷进了群体对立的漩涡。结果上网一查才发现这场风波之魔幻堪比罗生门：几波人各执一词，以致我现在还不知道具体发生了什么事情。耐人寻味的倒是，许多人正给他扣上“攻击国家制度”，“制造阶级对立”这般骇人听闻的帽子-言辞之锋利，声势之浩大简直让我忍不住要翻开日历看看今年到底是哪一年。我并不想浪费时间去查究他具体说了什么，上下文又如何，毕竟“即使是最高尚的人随手写的三句话，也能从中找出绞死他的理由”。但为什么如今网络上的人陷入了翻旧账-闹大-夷平一切反感的事物这样的思维定势呢？忍不住长吁短叹，只希望不要由《无职转生》而引发对B站番剧区的又一次“刷洗刷洗”<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> ，引得众人不快吧。虽然我早就习惯了睡觉前把当季新番下到nas里面以备观看就是了......</p>
+<p>另一件有些头痛的事可能就是电脑配置不够引发的频频卡死了。当初购买的时候只想着轻便和程序高性能而买来的标压cpu轻薄本，每每在上万顶点、复杂布光和eevee“三座大山”的联合压制下发出一阵阵刺耳哀嚎。这样下去我的性能不足恐惧症怕是再难治愈了。估计在换电脑之前做出完整npr<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>场景的预想是彻底告吹了。之前霸王硬上弓已经干废了笔记本的右风扇，类似的险再也不敢去冒。</p>
+<p>蒸汽平台跨越了重重山海，终于正式上线。游戏内容堪称丰富，至少占满了首页全部的空间-可以说远远超过国区App Store，e shop 或是PSN了。随之一同在<strong>国区steam</strong>重新上线的远程同乐，倒是给了我不小的惊喜。本地流式传输丝滑流畅，想和好基友一起联机overcooked，摆弄了几下终是没能成功。</p>
+<p>应该很快就能读完《西方哲学简史》了。说来有趣，推荐我这本书的，是一位民间译者-翻译了无法引进的《牛津通识读本：马克思》的他，竟是一个以化学试剂为邮箱名称的人。或许他和我一样，是一个选择理工道路而又努力兼及人文的人吧。在邮件里面半俏皮地问我“您觉得我多少岁”的他（我总觉得不像女孩子……），还真是忍不住让我有进一步的讨论欲望的人啊。</p>
+<p>抓紧时间享受最后的寒假作业吧！不知道博客正式上线之日，我又会是在什么地方？<s>打了那么多嘴炮怕不是老老实实窝在本地</s></p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>[<a href="https://archive.vn/8QXrq">新华热评：哔哩哔哩需要刷洗刷洗</a>] （https://archive.vn/8QXrq） <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>Non-photorealistic rendering,非写实渲染 <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[施工路线图]]></title>
+        <id>https://dyron503.github.io/post/shi-gong-lu-xian-tu/</id>
+        <link href="https://dyron503.github.io/post/shi-gong-lu-xian-tu/">
+        </link>
+        <updated>2021-02-10T07:30:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="施工路线图">施工路线图</h1>
+<p>小站正在全力建设中！</p>
+<p>距离最终上线前所需的工作如下：</p>
+<ul class="contains-task-list">
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8160615"> <strong>基础体验</strong><label class="task-list-item-label" for="task-item-8160615"> **基础体验**</label></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6146064"><label class="task-list-item-label" for="task-item-6146064"> 上线标签页（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6978995"><label class="task-list-item-label" for="task-item-6978995"> 首页支持配图（3月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8461100"><label class="task-list-item-label" for="task-item-8461100"> 支持友链（4月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2576638"> 适配移动端   <s>找个能用的主题</s><label class="task-list-item-label" for="task-item-2576638"> 适配移动端   ~~找个能用的主题~~（4月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7056665"><label class="task-list-item-label" for="task-item-7056665"> 上线CDN加速（7月前）</label></li>
+</ul>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5117576"> <strong>内容填充</strong><label class="task-list-item-label" for="task-item-5117576"> **内容填充**</label></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7918269"><label class="task-list-item-label" for="task-item-7918269"> 制作网站标志（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-448159"><label class="task-list-item-label" for="task-item-448159"> 个人介绍完工（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6932995"><label class="task-list-item-label" for="task-item-6932995"> 风格化外观（6月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8284181"><label class="task-list-item-label" for="task-item-8284181"> 旧文补档（6月前）</label></li>
+</ul>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8633769"> <strong>其他杂项</strong><label class="task-list-item-label" for="task-item-8633769"> **其他杂项**</label></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6099186"><label class="task-list-item-label" for="task-item-6099186"> 上线独立域名（7月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7708976"><label class="task-list-item-label" for="task-item-7708976"> 切换至动态模式，以typcho进行驱动（预计2022年完成）</label></li>
+</ul>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://storage.live.com/items/43A9969A979DE181!92805?authkey=AM6Ntz-ZWGOT178" alt="eea76455-7e51-4012-9a6c-5c863e40e4bd.png" loading="lazy"></figure>
+]]></content>
+    </entry>
 </feed>
