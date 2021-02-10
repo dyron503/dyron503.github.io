@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyron503.github.io/</id>
     <title>dyron503的博客</title>
-    <updated>2021-02-10T07:34:25.101Z</updated>
+    <updated>2021-02-10T07:39:42.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dyron503.github.io/"/>
     <link rel="self" href="https://dyron503.github.io/atom.xml"/>
@@ -39,34 +39,34 @@
         <link href="https://dyron503.github.io/post/shi-gong-lu-xian-tu/">
         </link>
         <updated>2021-02-10T07:30:25.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="施工路线图">施工路线图</h1>
-<p>小站正在全力建设中！</p>
+        <content type="html"><![CDATA[<p>小站正在全力建设中！</p>
 <p>距离最终上线前所需的工作如下：</p>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8160615"> <strong>基础体验</strong><label class="task-list-item-label" for="task-item-8160615"> **基础体验**</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6564100"> <strong>基础体验</strong><label class="task-list-item-label" for="task-item-6564100"> **基础体验**</label></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6146064"><label class="task-list-item-label" for="task-item-6146064"> 上线标签页（2月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6978995"><label class="task-list-item-label" for="task-item-6978995"> 首页支持配图（3月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8461100"><label class="task-list-item-label" for="task-item-8461100"> 支持友链（4月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2576638"> 适配移动端   <s>找个能用的主题</s><label class="task-list-item-label" for="task-item-2576638"> 适配移动端   ~~找个能用的主题~~（4月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7056665"><label class="task-list-item-label" for="task-item-7056665"> 上线CDN加速（7月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5126267"><label class="task-list-item-label" for="task-item-5126267"> 上线标签页（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6413990"><label class="task-list-item-label" for="task-item-6413990"> 首页支持配图（3月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7238548"><label class="task-list-item-label" for="task-item-7238548"> 支持友链（4月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9256477"> 适配移动端   <s>找个能用的主题</s><label class="task-list-item-label" for="task-item-9256477"> 适配移动端   ~~找个能用的主题~~（4月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4288908"><label class="task-list-item-label" for="task-item-4288908"> 开放评论（6月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-488410"><label class="task-list-item-label" for="task-item-488410"> 上线CDN加速（7月前）</label></li>
 </ul>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5117576"> <strong>内容填充</strong><label class="task-list-item-label" for="task-item-5117576"> **内容填充**</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6992834"> <strong>内容填充</strong><label class="task-list-item-label" for="task-item-6992834"> **内容填充**</label></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7918269"><label class="task-list-item-label" for="task-item-7918269"> 制作网站标志（2月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-448159"><label class="task-list-item-label" for="task-item-448159"> 个人介绍完工（2月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6932995"><label class="task-list-item-label" for="task-item-6932995"> 风格化外观（6月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8284181"><label class="task-list-item-label" for="task-item-8284181"> 旧文补档（6月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-184555"><label class="task-list-item-label" for="task-item-184555"> 制作网站标志（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-703675"><label class="task-list-item-label" for="task-item-703675"> 个人介绍完工（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4468217"><label class="task-list-item-label" for="task-item-4468217"> 风格化外观（6月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9471854"><label class="task-list-item-label" for="task-item-9471854"> 旧文补档（6月前）</label></li>
 </ul>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8633769"> <strong>其他杂项</strong><label class="task-list-item-label" for="task-item-8633769"> **其他杂项**</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9252962"> <strong>其他杂项</strong><label class="task-list-item-label" for="task-item-9252962"> **其他杂项**</label></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6099186"><label class="task-list-item-label" for="task-item-6099186"> 上线独立域名（7月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7708976"><label class="task-list-item-label" for="task-item-7708976"> 切换至动态模式，以typcho进行驱动（预计2022年完成）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-863214"><label class="task-list-item-label" for="task-item-863214"> 上线独立域名（7月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6959010"><label class="task-list-item-label" for="task-item-6959010"> 切换至动态模式，以typcho进行驱动（预计2022年完成）</label></li>
 </ul>
 </li>
 </ul>
