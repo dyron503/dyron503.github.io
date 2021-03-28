@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyron503.github.io</id>
     <title>dyron503的博客</title>
-    <updated>2021-03-27T15:26:01.909Z</updated>
+    <updated>2021-03-28T08:52:50.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dyron503.github.io"/>
     <link rel="self" href="https://dyron503.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://dyron503.github.io/images/avatar.png</logo>
     <icon>https://dyron503.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, dyron503的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[2021#4：3月28日]]></title>
+        <id>https://dyron503.github.io/post/202143-yue-28-ri/</id>
+        <link href="https://dyron503.github.io/post/202143-yue-28-ri/">
+        </link>
+        <updated>2021-03-28T08:51:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>沙暴，英语写作和盯着窗外云朵上的阴影。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>沙暴，英语写作和盯着窗外云朵上的阴影。</p>
+<!-- more -->
+<p>沙暴来了。</p>
+<p>“这还没到2049年吧？”有人在QQ上发道。事实上，沙尘暴这种东西，我还没曾在现实中见到过；现在看来，英文课本上那些词句根本无法描述这种天气给人带来的那种扑面而来的压抑感，给人的感觉就如同一团不可名状的气态生命吞吃着目力范围内的一切。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/dyron503/pic/20210328162033.jpg" alt="" loading="lazy"></figure>
+<p>有一点倒是和我想象的有所不同——本以为空气会呛得嗓子发痛，没想到湿度大得很。那是下雨一样的气味，带着那种草地的味道。一两个小时后，天空转为灰青色，云朵散去后满地的泥水。</p>
+<p>学校距离城区本就有一小段距离，因此很少受到汽车尾气一类排放物的烦扰。可能是因为下了场雨的缘故，那天晚上我打着手电筒回家的时候，空气中连光束都没有，漫天的星星。</p>
+<p>对了，看到新版本的教材，上面也去除了沙暴这一话题。大概“空气中漫天的黄沙”这类的言语只能永远的存在于小说中了吧。</p>
+<p>周五下班前，英语老师把我留在办公室，要看过我的作文再走。之前她一直很不解为什么上课造句子的时候我可以写的很漂亮，一到作文里就像那“没学过作文的人”一样。我也不大清楚为什么近来笔法开始走样——直到被问了一个问题：“你知道什么是‘高级语法’吗？</p>
+<p>是啊，我不知道。只要能把意思表达出来而且不重复，用什么句式对我来说感觉都差不多。而细节描写受篇幅限制压缩之后又显得不大清楚。这大概就是进来分数一直不高的原因吧。</p>
+<p>周末的前几天纺织品事件的消息开始流传。离开教室前，我和一位向来关系不错的女生说到，其实我看不出来“对万国宣战诏书”有什么好处。</p>
+<p>我以为自己的屁股已经够歪了，她说道，我不想和你吵架。</p>
+<p>我背起书包，离开教室。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图片加载测试]]></title>
         <id>https://dyron503.github.io/post/tu-pian-jia-zai-ce-shi/</id>
@@ -210,30 +233,30 @@ https://indienova.com/indie-game-development/arknights-ui-ux-design/是其中影
 <p>距离最终上线所需的工作如下：</p>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1030403"><label class="task-list-item-label" for="task-item-1030403"> 基础体验</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8953888"><label class="task-list-item-label" for="task-item-8953888"> 基础体验</label></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5385659"><label class="task-list-item-label" for="task-item-5385659"> 上线标签页（2月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9225394"><label class="task-list-item-label" for="task-item-9225394"> 首页支持配图（3月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8493100"><label class="task-list-item-label" for="task-item-8493100"> 支持友链（4月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6969260"> 适配移动端   <s>找个能用的主题</s><label class="task-list-item-label" for="task-item-6969260"> 适配移动端   ~~找个能用的主题~~（4月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4884377"><label class="task-list-item-label" for="task-item-4884377"> 开放评论（6月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1925909"><label class="task-list-item-label" for="task-item-1925909"> 上线CDN加速，根本改善图片加载速度（7月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8607919"><label class="task-list-item-label" for="task-item-8607919"> 上线标签页（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5491550"><label class="task-list-item-label" for="task-item-5491550"> 首页支持配图（3月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8732624"><label class="task-list-item-label" for="task-item-8732624"> 支持友链（4月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-668289"> 适配移动端   <s>找个能用的主题</s><label class="task-list-item-label" for="task-item-668289"> 适配移动端   ~~找个能用的主题~~（4月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9508828"><label class="task-list-item-label" for="task-item-9508828"> 开放评论（6月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2050516"><label class="task-list-item-label" for="task-item-2050516"> 上线CDN加速，根本改善图片加载速度（7月前）</label></li>
 </ul>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7505016"><label class="task-list-item-label" for="task-item-7505016"> 内容填充</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2577518"><label class="task-list-item-label" for="task-item-2577518"> 内容填充</label></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4801997"><label class="task-list-item-label" for="task-item-4801997"> 制作网站标志（2月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4164900"><label class="task-list-item-label" for="task-item-4164900"> 个人介绍完工（2月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-185346"><label class="task-list-item-label" for="task-item-185346"> 风格化外观（6月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8704276"><label class="task-list-item-label" for="task-item-8704276"> 旧文补档（6月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7034376"><label class="task-list-item-label" for="task-item-7034376"> 制作网站标志（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9411404"><label class="task-list-item-label" for="task-item-9411404"> 个人介绍完工（2月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2176077"><label class="task-list-item-label" for="task-item-2176077"> 风格化外观（6月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-883848"><label class="task-list-item-label" for="task-item-883848"> 旧文补档（6月前）</label></li>
 </ul>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-332141"><label class="task-list-item-label" for="task-item-332141"> 其他杂项</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-667034"><label class="task-list-item-label" for="task-item-667034"> 其他杂项</label></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4298263"><label class="task-list-item-label" for="task-item-4298263"> 上线独立域名（7月前）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1820383"><label class="task-list-item-label" for="task-item-1820383"> 切换至动态模式，以typcho进行驱动（预计2022年完成）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9639118"><label class="task-list-item-label" for="task-item-9639118"> 上线独立域名（7月前）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6330128"><label class="task-list-item-label" for="task-item-6330128"> 切换至动态模式，以typcho进行驱动（预计2022年完成）</label></li>
 </ul>
 </li>
 </ul>
