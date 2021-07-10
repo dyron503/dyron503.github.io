@@ -1,0 +1,224 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>明日方舟用户界面中的一些启示·壹 | dyron503的博客</title>
+
+<link rel="shortcut icon" href="https://dyron503.github.io/favicon.ico?v=1625891007439">
+
+<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://dyron503.github.io/styles/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/moment@2.27.0/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.min.js"></script>
+<!-- DEMO JS -->
+<!--<script src="media/scripts/index.js"></script>-->
+
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.css">
+</head>
+<body>
+<div class="main gt-bg-theme-color-first">
+    <nav class="navbar navbar-expand-lg">
+    <div class="navbar-brand">
+        <img class="user-avatar" src="/images/avatar.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            dyron503的博客
+        </div>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center">
+            
+                <div class="nav-item">
+                    
+                        <a href="/" class="menu gt-a-link">
+                            首页
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/archives" class="menu gt-a-link" target="_blank">
+                            归档
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/tags" class="menu gt-a-link">
+                            标签
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/friends" class="menu gt-a-link">
+                            友人
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/post/about" class="menu gt-a-link">
+                            关于
+                        </a>
+                    
+                </div>
+            
+        </div>
+        <div style="text-align: center">
+            <form id="gridea-search-form" style="position: relative" data-update="1625891007439" action="/search/index.html">
+                <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
+                <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
+            </form>
+        </div>
+    </div>
+</nav>
+
+    <div class="post-container">
+        <div class="post-detail gt-bg-theme-color-second">
+            <article class="gt-post-content">
+                <h2 class="post-title">
+                    明日方舟用户界面中的一些启示·壹
+                </h2>
+                <div class="post-info">
+                    <time class="post-time gt-c-content-color-first">
+                        · 2021-03-14 ·
+                    </time>
+                    
+                        <a href="https://dyron503.github.io/tag/NJ2woR1Ya/" class="post-tags">
+                            # 设计
+                        </a>
+                    
+                </div>
+                <div class="post-content">
+                    <p>本文写作于一年之前。在进行一些学习之后，我于近日对它进行了一些修订，刊发于此。</p>
+<p><mark>本文在很大程度上是对已有资料的概括和综述。</mark><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<p>很久之前我在逛论坛的时候看到有人提出了一个话题：明日方舟的界面设计风格。结果，查资料的时候我才意识到这远比当初想象的要复杂得多：一个涉及了版式构图、材质、整体风格和素材的把控……等等不尽其数的特色所构成的综合体，不由得使我感慨其不愧为受到业内无数夸赞的优秀设计。在今天，我终于能够在一个阶段上概括出自己从中借鉴到的一小部分，写在这里与大家交流一番。</p>
+<p>篇幅所限更是能力所限，这次我只涉及其中微不足道的三个小点：高品质的模糊材质、整体感强烈的卡片布局以及后处理效果的应用。</p>
+<p>在涉及这个话题之前，我对舟游界面的认知只是单一的“一种全境封锁2的模仿品”而已。但当我稍微深入之时，却发现事情并非如此。虽然悬浮式的界面一打眼上去好像很相似，但在内部结构和视觉效果上相去甚远。</p>
+<p>与其说舟游的界面土豆味更重，不如说它更靠近微软的流畅设计体系（FDS）。这个论断并不是我提出的，但我确实对此深深认同。先来简单提及一下这套设计体系的内容：微软把这套体系内的元素分为光照（Light）、材质（Material）、动态（Motion）、深度（Depth）和伸缩性（Scale）；在静态设计中，我们只涉及光照、材质和深度。</p>
+<p>首先来说说材质。在设置界面，舟游使用了一种高品质的模糊效果来搭配白色矩形。这种模糊在Windows设计规范中被称为亚克力材质。配方可以非常简便地从官网找到：<br>
+模糊+饱和+着色+噪声。</p>
+<figure data-type="image" tabindex="1"><img src="https://storage.live.com/items/43A9969A979DE181!92925?authkey=AM6Ntz-ZWGOT178" alt="c28a9c11-549b-4b71-b319-c48adfd59040.png" loading="lazy"></figure>
+<p>看上去是一整块的材质由四层图像组成：对底部进行模糊的「虚化层」、调整底部饱和度的「饱和层」、对材质进行着色的「着色层」以及进行修饰的「噪声层」。其中，饱和度的调节需要Photoshop等软件中的混合功能，可以省略；噪点的意义在于当背景复杂时通过人为增加的二次磨砂效果赋予材质动态时的磨砂质感，在静态之时也不必强加（性能开销巨大）。所以，当我们在静态页面中使用之时，可以将其简化为两层。这里以最简化的在ppt中实现为例：</p>
+<p>使用布尔运算中「相交」的功能裁剪复制之后的图片，使之和矩形一般大小。然后为图片设置阴影和虚化效果，参数如下图：</p>
+<figure data-type="image" tabindex="2"><img src="https://storage.live.com/items/43A9969A979DE181!92926?authkey=AM6Ntz-ZWGOT178" alt="e7256999-de26-4bed-a133-209c6948a795.jpg" loading="lazy"></figure>
+<p>之后将亚克力的颜色层（一般为白色或黑色）设置一定的透明度，叠加即可。</p>
+<p>使用的时候建议在PPT制作的最后阶段进行材质上的处理，否则一旦需要更改材质的位置就很尴尬了……<br>
+接下来说一说排版。FDS在排版中强调页面上的元素应当利用深度来表现层级。最好的例子就是新版本的office图标。</p>
+<p>可以看到在主页面各个功能块是以一种「投影出来」的效果显示在屏幕上的，且存在立体空间上位置的区别，并非平板一块。而在排版的时候，对于不同层级的信息通过阴影来反映视觉上的优先级，也是简便且效果不俗的手段。</p>
+<p>我认为实用性更强的是它在选关界面上的设计。卡片化的排版-圆角矩形加阴影的做法已经不是什么新鲜事。但游戏中界面的亮点在于将不同卡片串联起来的方式：一种近似拟物的手法。</p>
+<p>FDS并不排斥拟物-否则微软也没必要把曾经那些被二向箔袭击过后的图标一个个更新成现在的样子了。明日方舟里面，章节被做成了相片的样式，通过线来串联钉子一般的图标和标签。这种手法很好的贯彻了「亲密」原则，且不会增加太多视觉负担——非常适合应用于与现实密切相关的页面上。比如在排列地区之时，可以借助地图串联同一地区的不同城市。</p>
+<figure data-type="image" tabindex="3"><img src="https://storage.live.com/items/43A9969A979DE181!92927?authkey=AM6Ntz-ZWGOT178" alt="a23db9ab-68c0-4621-8e16-a902246edad9.JPG" loading="lazy"></figure>
+<p>值得注意的是，在页面上排列大量信息之后很容易显得杂乱无章，这时候就需要恰当的后处理效果来帮助聚焦。比如在刚才的页面上就使用了一个渐变矩形进行遮罩-否则地图左侧密密麻麻的道路和城市显然会吸走太多的注意力。而在舟游中，大量使用的一种后处理手法是页面周围的投影效果。在周围添加阴影之后，中心的卡片内容得以凸显。如果大家此时翻回头图去看，可以看到它也使用了类似的处理方法，这里就不另外举例了（因为我懒）。</p>
+<p>同时，我们也可以见到强投影，散景效果、噪点和斜线以及局部马赛克等处理方法被广泛应用于游戏内外的各类设计中。这充分保证了简洁而又不乏细节，且十分统一和有辨识度的视觉效果。回到PPT中，在不同的页面上使用类似的元素可以显著减轻「套模板」的视觉感受。</p>
+<p>在使用类似元素的时候最好不要直接使他们相交，应留有适当空隙或是以略有不同的元素进行缓冲。这里推荐「图鱼」这个网站，上面有丰富的纹理素材可供下载。</p>
+<p>最后来做个总结：想学习其实际风格以提升PPT的质感可以从几个方面入手：设置高质量材质，统一元素风格，卡片化的排版以及一定程度上的类似元素或同一元素复用。</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p><br>
+https://indienova.com/indie-game-development/arknights-ui-ux-design/是其中影响最大的。 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+
+                </div>
+            </article>
+        </div>
+
+        
+            <div class="next-post">
+                <div class="next gt-c-content-color-first">下一篇</div>
+                <a href="https://dyron503.github.io/post/202133-yue-7-ri/" class="post-title gt-a-link">
+                    2021#3：3月7日
+                </a>
+            </div>
+        
+
+        
+
+        
+
+        
+            <script src='https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
+
+<style>
+	div#vcomments{
+		width:100%;
+		max-width: 1000px;
+		padding: 2.5%
+	}
+</style>
+
+
+	<div id="vcomments"></div>
+
+<script>
+	new Valine({
+		el: '#vcomments',
+		appId: 'YsbjRDrdX6AjxIK8xsn5xAk8-MdYXbMMI',
+		appKey: 'EGM3ygEzmTaU2U0EgIkG5ben',
+		avatar: 'wavatar',
+		pageSize: 5,
+		recordIp: false,
+		placeholder: '随便写写吧',
+		visitor: false,
+	});
+</script>
+
+        
+
+        <div class="site-footer gt-c-content-color-first">
+    <div class="slogan gt-c-content-color-first">跨越重重难关，方能齐聚一堂</div>
+    <div class="social-container">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </div>
+    <div class="footer-info">
+        
+    </div>
+    <div>
+        Theme by <a href="https://imhanjie.com/" target="_blank">imhanjie</a>, Powered by <a
+                href="https://github.com/getgridea/gridea" target="_blank">Gridea | <a href="https://dyron503.github.io/atom.xml" target="_blank">RSS</a></a>
+    </div>
+</div>
+
+<script>
+  hljs.initHighlightingOnLoad()
+</script>
+
+    </div>
+</div>
+</body>
+</html>
